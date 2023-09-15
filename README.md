@@ -1,4 +1,4 @@
-#  Dev Challenge 2023 - Unimar Tech Summit 2023
+#  Dev Challenge - Unimar Tech Summit 2023
 
 ## Objetivo
 ### Criar uma solução a partir da situação abaixo
