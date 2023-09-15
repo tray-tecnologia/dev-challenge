@@ -1,16 +1,23 @@
-#  Dev Challenge 2023
+#  Dev Challenge 2023 - Unimar Tech Summit 2023
 
-## Objetivo: Criar uma solução a partir da situação abaixo
+## Objetivo
+### Criar uma solução a partir da situação abaixo
 > Aumentar as vendas de uma loja virtual, buscando fechar pedidos de clientes que abandonaram os produtos em seus carrinhos de compras.
 
-No momento do desafio:
+## Desafio
 
-1) Serão 5 links de carrinhos abandonados em formato JSON (exemplos: com dados de nome, e-mail, WhatsApp, lista de produtos, entre outros);
+1) Serão 5 links(abaixo) de carrinhos abandonados em formato JSON (exemplos: com dados de nome, e-mail, WhatsApp, lista de produtos, entre outros)
 
-2) Esses carrinhos precisam ser convertidos em vendas, criando uma ferramenta com o objetivo de engajar e facilitar o cliente a finalizar o pedido na loja;
+-  https://images.tcdn.com.br/dev-challenge/cart/4rashtk3sdquptms4md2q2h485.json
+-  https://images.tcdn.com.br/dev-challenge/cart/huni2lib7i0hkbie6vvg7n46t4.json
+-  https://images.tcdn.com.br/dev-challenge/cart/kobq972itl2rqugoa5v2k7e3j7.json
+-  https://images.tcdn.com.br/dev-challenge/cart/qami6pqhjbvgqfh7qqmh4sdud2.json
+-  https://images.tcdn.com.br/dev-challenge/cart/teh1jg167q6k50o2ejermke7u5.json
 
-3) Os alunos deverão formar equipes compostas de, no mínimo, 4 (quatro) e, no máximo, 5 (cinco) integrantes;
+2) Esses carrinhos precisam ser convertidos em vendas, criando uma ferramenta com o objetivo de engajar e facilitar o cliente a finalizar o pedido na loja
 
-4) Apresentação do desafio: via GitHub. Estaremos disponibilizando, no final do evento, o forms para envio do link;
+3) Os alunos deverão formar equipes compostas de, no mínimo, 4 (quatro) e, no máximo, 5 (cinco) integrantes
 
-5) Prazo de entrega: dia 15/09, até 22h30.
+4) Apresentação do desafio: via GitHub. Estaremos disponibilizando, no final do evento, o forms para envio do link
+
+5) Prazo de entrega: dia 15/09, até 22h30
