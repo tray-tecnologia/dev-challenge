@@ -18,6 +18,6 @@
 
 3) Os alunos deverão formar equipes compostas de, no mínimo, 4 (quatro) e, no máximo, 5 (cinco) integrantes
 
-4) Apresentação do desafio: via GitHub. Estaremos disponibilizando, no final do evento, o forms para envio do link
+4) Enviar link do github no forms, através do link: https://docs.google.com/forms/d/e/1FAIpQLSdRaqPgfW8HIfy0o6CGMYhf6gnAvLjGklevL9VJiKfHEwjXYg/viewform
 
 5) Prazo de entrega: dia 15/09, até 22h30
